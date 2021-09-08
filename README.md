@@ -1,2 +1,2 @@
-# fastpy-cli
+# fastpy-cli 🎈
 CLI tool for FastAPI
